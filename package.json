@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.6.0",
+    "solc": "^0.4.16",
+    "web3": "^1.0.0-beta.18",
+    "websocket": "^1.0.24"
+  }
+}
